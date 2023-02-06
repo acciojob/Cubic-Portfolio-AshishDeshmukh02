@@ -32,13 +32,6 @@
   transform: rotateY(180deg) translateZ(150px);
 }
 
-.five {
-  transform: rotateY(-90deg) translateZ(150px);
-}
-
-.six {
-  transform: rotateX(-90deg) translateZ(150px);
-}
 
 @keyframes spin {
   from {
